@@ -1,0 +1,2 @@
+Titre de l'article && Nom de l'auteur && 20 && 500
+Titre de l'article && Nom de l'auteur && 20 && 500
